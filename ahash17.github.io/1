@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]> <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie9 loading-site no-js bg-fill"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie8 loading-site no-js bg-fill"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US" prefix="og: http://ogp.me/ns#" class="loading-site no-js bg-fill"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.inventheme.com/xmlrpc.php" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114705279-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-114705279-1');
+</script>
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Keira - Bootstrap 4 One Page Personal Portfolio Template - Invent Theme</title>
+<!-- This site is optimized with the Yoast SEO plugin v7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Keira - Bootstrap 4 One Page Personal Portfolio Template - Invent Theme" />
+<meta property="og:description" content="Keira – Personal Portfolio Template is a highly creative, modern, visually stunning and Bootstrap 4 HTML5 responsive portfolio template. Keira – Bootstrap 4 One Page Personal Portfolio Template Keira is a Simple, Modern, Creative and Responsive HTML5 OnePage Template. It will help you to presents your self even your Business/resume more smartly and easily. This &hellip;" />
+<meta property="og:url" content="http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/" />
+<meta property="og:site_name" content="Invent Theme" />
+<meta property="article:section" content="HTML" />
+<meta property="article:published_time" content="2018-09-02T07:44:23+00:00" />
+<meta property="article:modified_time" content="2018-09-09T07:52:35+00:00" />
+<meta property="og:updated_time" content="2018-09-09T07:52:35+00:00" />
+<meta property="og:image" content="http://www.inventheme.com/wp-content/uploads/2018/09/theme-banner.__large_preview-1.png" />
+<meta property="og:image:width" content="590" />
+<meta property="og:image:height" content="300" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Keira – Personal Portfolio Template is a highly creative, modern, visually stunning and Bootstrap 4 HTML5 responsive portfolio template. Keira – Bootstrap 4 One Page Personal Portfolio Template Keira is a Simple, Modern, Creative and Responsive HTML5 OnePage Template. It will help you to presents your self even your Business/resume more smartly and easily. This [&hellip;]" />
+<meta name="twitter:title" content="Keira - Bootstrap 4 One Page Personal Portfolio Template - Invent Theme" />
+<meta name="twitter:image" content="http://www.inventheme.com/wp-content/uploads/2018/09/theme-banner.__large_preview-1.png" />
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Invent Theme &raquo; Feed" href="http://www.inventheme.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Invent Theme &raquo; Comments Feed" href="http://www.inventheme.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Invent Theme &raquo; Keira &#8211; Bootstrap 4 One Page Personal Portfolio Template Comments Feed" href="http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/feed/" />
+<!-- <link rel='stylesheet' id='contact-form-7-css'  href='http://www.inventheme.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='flatsome-icons-css'  href='http://www.inventheme.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='flatsome-main-css'  href='http://www.inventheme.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.5.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='flatsome-style-css'  href='http://www.inventheme.com/wp-content/themes/flatsome-child/style.css?ver=3.5.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.inventheme.com/wp-content/cache/wpfc-minified/39f9c871dcc9907deee621440cb8d18f/1574868292index.css" media="all"/>
+<script src='//www.inventheme.com/wp-content/cache/wpfc-minified/f316bad01b031cd881467aba76300f8c/1574868293index.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://www.inventheme.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script> -->
+<!-- <script type='text/javascript' src='http://www.inventheme.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
+<link rel='https://api.w.org/' href='http://www.inventheme.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.inventheme.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.inventheme.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.13" />
+<link rel='shortlink' href='http://www.inventheme.com/?p=232' />
+<link rel="alternate" type="application/json+oembed" href="http://www.inventheme.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.inventheme.com%2F2018%2F09%2F02%2Fkeira-bootstrap-4-one-page-personal-portfolio-template%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.inventheme.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.inventheme.com%2F2018%2F09%2F02%2Fkeira-bootstrap-4-one-page-personal-portfolio-template%2F&#038;format=xml" />
+<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.inventheme.com/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="http://www.inventheme.com/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]-->    <script type="text/javascript">
+WebFontConfig = {
+google: { families: [ "Lato:regular,700","Lato:regular,400","Lato:regular,700","Dancing+Script", ] }
+};
+(function() {
+var wf = document.createElement('script');
+wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+wf.type = 'text/javascript';
+wf.async = 'true';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(wf, s);
+})(); </script>
+<script type="text/javascript">
+var infolinks_pid = 3186749;
+var infolinks_wsid = 0;
+</script>
+<script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script><link rel="icon" href="http://www.inventheme.com/wp-content/uploads/2018/02/cropped-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.inventheme.com/wp-content/uploads/2018/02/cropped-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.inventheme.com/wp-content/uploads/2018/02/cropped-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.inventheme.com/wp-content/uploads/2018/02/cropped-logo-270x270.png" />
+<style id="custom-css" type="text/css">:root {--primary-color: #27839f;}/* Site Width */.header-main{height: 83px}#logo img{max-height: 83px}#logo{width:200px;}.header-top{min-height: 30px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 83px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 100%;}.header-bottom {background-color: #f1f1f1}@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #27839f;}/* Color !important */[data-text-color="primary"]{color: #27839f!important;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #27839f;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #27839f}.nav-tabs > li.active > a{border-top-color: #27839f}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #27839f }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #27839f }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #27839f;}/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button{ background-color:#333333; }/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #333333}/* Color !important */[data-text-color="secondary"]{color: #333333!important;}/* Border */.secondary.is-outline:hover{border-color:#333333}body{font-family:"Lato", sans-serif}body{font-weight: 400}body{color: #333333}.nav > li > a {font-family:"Lato", sans-serif;}.nav > li > a {font-weight: 700;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "Lato", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: 700;}h1,h2,h3,h4,h5,h6,.heading-font{color: #222222;}.alt-font{font-family: "Dancing Script", sans-serif;}a{color: #285463;}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style>		<style type="text/css" id="wp-custom-css">
+.widget-area .widget_archive,
+.widget-area .widget_categories {
+max-height: 250px;
+overflow-y: auto;	
+}		</style>
+</head>
+<body class="post-template-default single single-post postid-232 single-format-standard full-width bg-fill lightbox nav-dropdown-has-arrow">
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+<div id="wrapper">
+<header id="header" class="header has-sticky sticky-jump">
+<div class="header-wrapper">
+<div id="masthead" class="header-main ">
+<div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+<!-- Logo -->
+<div id="logo" class="flex-col logo">
+<!-- Header logo -->
+<a href="http://www.inventheme.com/" title="Invent Theme - " rel="home">
+<img width="200" height="83" src="http://www.inventheme.com/wp-content/uploads/2018/02/logo.png" class="header_logo header-logo" alt="Invent Theme"/><img  width="200" height="83" src="http://www.inventheme.com/wp-content/uploads/2018/02/logo.png" class="header-logo-dark" alt="Invent Theme"/></a>
+</div>
+<!-- Mobile Left Elements -->
+<div class="flex-col show-for-medium flex-left">
+<ul class="mobile-nav nav nav-left ">
+<li class="nav-icon has-icon">
+<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="is-small" aria-controls="main-menu" aria-expanded="false">
+<i class="icon-menu" ></i>
+</a>
+</li>            </ul>
+</div>
+<!-- Left Elements -->
+<div class="flex-col hide-for-medium flex-left
+flex-grow">
+<ul class="header-nav header-nav-main nav nav-left  nav-uppercase" >
+</ul>
+</div>
+<!-- Right Elements -->
+<div class="flex-col hide-for-medium flex-right">
+<ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
+<li class="header-search-form search-form html relative has-icon">
+<div class="header-search-form-wrapper">
+<div class="searchform-wrapper ux-search-box relative form- is-normal"><form method="get" class="searchform" action="http://www.inventheme.com/" role="search">
+<div class="flex-row relative">
+<div class="flex-col flex-grow">
+<input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Search&hellip;" />
+</div><!-- .flex-col -->
+<div class="flex-col">
+<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0">
+<i class="icon-search" ></i>				</button>
+</div><!-- .flex-col -->
+</div><!-- .flex-row -->
+<div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>            </ul>
+</div>
+<!-- Mobile Right Elements -->
+<div class="flex-col show-for-medium flex-right">
+<ul class="mobile-nav nav nav-right ">
+</ul>
+</div>
+</div><!-- .header-inner -->
+<!-- Header divider -->
+<div class="container"><div class="top-divider full-width"></div></div>
+</div><!-- .header-main -->
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div><!-- .header-bg-container -->   </div><!-- header-wrapper-->
+</header>
+<main id="main" class="">
+<div id="content" class="blog-wrapper blog-single page-wrapper">
+<div class="row row-large row-divided ">
+<div class="large-9 col">
+<article id="post-232" class="post-232 post type-post status-publish format-standard has-post-thumbnail hentry category-html category-personal">
+<div class="article-inner ">
+<header class="entry-header">
+<div class="entry-header-text entry-header-text-top text-left">
+<h6 class="entry-category is-xsmall">
+<a href="http://www.inventheme.com/category/html/" rel="category tag">HTML</a>, <a href="http://www.inventheme.com/category/html/personal/" rel="category tag">Personal</a></h6>
+<h1 class="entry-title">Keira &#8211; Bootstrap 4 One Page Personal Portfolio Template</h1>
+<div class="entry-divider is-divider small"></div>
+<div class="entry-meta uppercase is-xsmall">
+<span class="posted-on">Posted on <a href="http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/" rel="bookmark"><time class="entry-date published" datetime="2018-09-02T07:44:23+00:00">September 2, 2018</time><time class="updated" datetime="2018-09-09T07:52:35+00:00">September 9, 2018</time></a></span><span class="byline"> by <span class="meta-author vcard"><a class="url fn n" href="http://www.inventheme.com/author/inventadmin/">inventadmin</a></span></span>	</div><!-- .entry-meta -->
+</div><!-- .entry-header -->
+<div class="entry-image relative">
+<a href="http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/">
+<img width="590" height="300" src="http://www.inventheme.com/wp-content/uploads/2018/09/theme-banner.__large_preview-1.png" class="attachment-large size-large wp-post-image" alt="" srcset="http://www.inventheme.com/wp-content/uploads/2018/09/theme-banner.__large_preview-1.png 590w, http://www.inventheme.com/wp-content/uploads/2018/09/theme-banner.__large_preview-1-300x153.png 300w" sizes="(max-width: 590px) 100vw, 590px" /></a>
+<div class="badge absolute top post-date badge-square">
+<div class="badge-inner">
+<span class="post-date-day">02</span><br>
+<span class="post-date-month is-small">Sep</span>
+</div>
+</div>	</div><!-- .entry-image -->
+</header><!-- post-header -->
+<div class="entry-content single-page">
+<p>Keira – Personal Portfolio Template is a highly creative, modern, visually stunning and Bootstrap 4 HTML5 responsive portfolio template.</p>
+<h3>Keira – Bootstrap 4 One Page Personal Portfolio Template</h3>
+<p>Keira is a Simple, Modern, Creative and Responsive HTML5 OnePage Template. It will help you to presents your self even your Business/resume more smartly and easily. This is built with modern technologies like HTML5, CSS3, jQuery, Bootstrap 4. It is 100% responsive with clean modern design.</p>
+<h3>Features</h3>
+<ul>
+<li>Powered by Bootstrap 4</li>
+<li>6 Different Color Skins</li>
+<li>Fully Responsivev</li>
+<li>Google Fonts</li>
+<li>Font Awesome</li>
+<li>Creative, Clean, Modern Template</li>
+<li>HTML5, CSS3 And jQuery</li>
+<li>Bootstrap 4</li>
+<li>Clean Design</li>
+<li>Documentation Included</li>
+<li>And more…</li>
+</ul>
+<h3>Notes</h3>
+<p>Images used in demo, even they are sample, are not included in downloadable file. All images are replaced with placeholder</p>
+<p>This is purely an HTML/CSS template and not a WordPress or any other CMS theme.</p>
+<div class="download-btn">
+<a class="button primary" target="_blank" href="https://themeforest.net/item/keira-bootstrap-4-one-page-personal-portfolio-template/22456409?s_rank=7">Only $7 Buy Now</a>
+</div>
+<div class="blog-share text-center"><div class="is-divider medium"></div><div class="social-icons share-icons share-row relative icon-style-outline " ><a href="whatsapp://send?text=Keira%20%26%238211%3B%20Bootstrap%204%20One%20Page%20Personal%20Portfolio%20Template - http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/" data-action="share/whatsapp/share" class="icon button circle is-outline tooltip whatsapp show-for-medium" title="Share on WhatsApp"><i class="icon-phone"></i></a><a href="//www.facebook.com/sharer.php?u=http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/" data-label="Facebook" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="nofollow" target="_blank" class="icon button circle is-outline tooltip facebook" title="Share on Facebook"><i class="icon-facebook" ></i></a><a href="//twitter.com/share?url=http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="nofollow" target="_blank" class="icon button circle is-outline tooltip twitter" title="Share on Twitter"><i class="icon-twitter" ></i></a><a href="mailto:enteryour@addresshere.com?subject=Keira%20%26%238211%3B%20Bootstrap%204%20One%20Page%20Personal%20Portfolio%20Template&amp;body=Check%20this%20out:%20http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/" rel="nofollow" class="icon button circle is-outline tooltip email" title="Email to a Friend"><i class="icon-envelop" ></i></a><a href="//pinterest.com/pin/create/button/?url=http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/&amp;media=http://www.inventheme.com/wp-content/uploads/2018/09/theme-banner.__large_preview-1.png&amp;description=Keira%20%26%238211%3B%20Bootstrap%204%20One%20Page%20Personal%20Portfolio%20Template" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="nofollow" target="_blank" class="icon button circle is-outline tooltip pinterest" title="Pin on Pinterest"><i class="icon-pinterest" ></i></a><a href="//plus.google.com/share?url=http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/" target="_blank" class="icon button circle is-outline tooltip google-plus" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="nofollow" title="Share on Google+"><i class="icon-google-plus" ></i></a><a href="//tumblr.com/widgets/share/tool?canonicalUrl=http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/" target="_blank" class="icon button circle is-outline tooltip tumblr" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;"  rel="nofollow" title="Share on Tumblr"><i class="icon-tumblr" ></i></a></div></div></div><!-- .entry-content2 -->
+<footer class="entry-meta text-left">
+This entry was posted in <a href="http://www.inventheme.com/category/html/" rel="category tag">HTML</a>, <a href="http://www.inventheme.com/category/html/personal/" rel="category tag">Personal</a>. Bookmark the <a href="http://www.inventheme.com/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/" title="Permalink to Keira &#8211; Bootstrap 4 One Page Personal Portfolio Template" rel="bookmark">permalink</a>.	</footer><!-- .entry-meta -->
+<div class="entry-author author-box">
+<div class="flex-row align-top">
+<div class="flex-col mr circle">
+<div class="blog-author-image">
+<img alt='' src='http://0.gravatar.com/avatar/0bb9a4f93cbde12cdeb5cd19617c0c57?s=90&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/0bb9a4f93cbde12cdeb5cd19617c0c57?s=180&#038;d=mm&#038;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' />				</div>
+</div><!-- .flex-col -->
+<div class="flex-col flex-grow">
+<h5 class="author-name uppercase pt-half">
+inventadmin				</h5>
+<p class="author-desc small"></p>
+</div><!-- .flex-col -->
+</div>
+</div>
+<nav role="navigation" id="nav-below" class="navigation-post">
+<div class="flex-row next-prev-nav bt bb">
+<div class="flex-col flex-grow nav-prev text-left">
+<div class="nav-previous"><a href="http://www.inventheme.com/2018/08/13/creative-bootstrap-3-free-html-templates/" rel="prev"><span class="hide-for-small"><i class="icon-angle-left" ></i></span> Creative &#8211; Bootstrap 3 Free HTML Templates</a></div>
+</div>
+<div class="flex-col flex-grow nav-next text-right">
+<div class="nav-next"><a href="http://www.inventheme.com/2018/09/09/appway-responsive-bootstrap-4-landing-template/" rel="next">AppWay &#8211; Responsive Bootstrap 4 Landing Template <span class="hide-for-small"><i class="icon-angle-right" ></i></span></a></div>		</div>
+</div>
+</nav><!-- #nav-below -->
+</div><!-- .article-inner -->
+</article><!-- #-232 -->
+<div id="comments" class="comments-area">
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2018/09/02/keira-bootstrap-4-one-page-personal-portfolio-template/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://www.inventheme.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='232' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+</div><!-- #respond -->
+</div><!-- #comments -->
+</div> <!-- .large-9 -->
+<div class="post-sidebar large-3 col">
+<div id="secondary" class="widget-area " role="complementary">
+<aside id="flatsome_recent_posts-17" class="widget flatsome_recent_posts">		<span class="widget-title "><span>Latest Posts</span></span><div class="is-divider small"></div>		<ul>		
+<li class="recent-blog-posts-li">
+<div class="flex-row recent-blog-posts align-top pt-half pb-half">
+<div class="flex-col mr-half">
+<div class="badge post-date badge-small badge-square">
+<div class="badge-inner bg-fill" >
+<span class="post-date-day">16</span><br>
+<span class="post-date-month is-xsmall">Dec</span>
+</div>
+</div>
+</div><!-- .flex-col -->
+<div class="flex-col flex-grow">
+<a href="http://www.inventheme.com/2019/12/16/eastend-visa-consulting-wordpress-theme/" title="Eastend – Visa Consulting WordPress Theme">Eastend – Visa Consulting WordPress Theme</a>
+<span class="post_comments oppercase op-7 block is-xsmall"><a href="http://www.inventheme.com/2019/12/16/eastend-visa-consulting-wordpress-theme/#respond"></a></span>
+</div>
+</div><!-- .flex-row -->
+</li>
+<li class="recent-blog-posts-li">
+<div class="flex-row recent-blog-posts align-top pt-half pb-half">
+<div class="flex-col mr-half">
+<div class="badge post-date badge-small badge-square">
+<div class="badge-inner bg-fill" >
+<span class="post-date-day">16</span><br>
+<span class="post-date-month is-xsmall">Dec</span>
+</div>
+</div>
+</div><!-- .flex-col -->
+<div class="flex-col flex-grow">
+<a href="http://www.inventheme.com/2019/12/16/voelas-event-conference-wordpress-theme/" title="Voelas &#8211; Event &#038; Conference WordPress Theme">Voelas &#8211; Event &#038; Conference WordPress Theme</a>
+<span class="post_comments oppercase op-7 block is-xsmall"><a href="http://www.inventheme.com/2019/12/16/voelas-event-conference-wordpress-theme/#respond"></a></span>
+</div>
+</div><!-- .flex-row -->
+</li>
+<li class="recent-blog-posts-li">
+<div class="flex-row recent-blog-posts align-top pt-half pb-half">
+<div class="flex-col mr-half">
+<div class="badge post-date badge-small badge-square">
+<div class="badge-inner bg-fill" >
+<span class="post-date-day">16</span><br>
+<span class="post-date-month is-xsmall">Dec</span>
+</div>
+</div>
+</div><!-- .flex-col -->
+<div class="flex-col flex-grow">
+<a href="http://www.inventheme.com/2019/12/16/planteo-gardening-and-landscaping-wordpress-theme/" title="Planteo &#8211; Gardening and Landscaping WordPress Theme">Planteo &#8211; Gardening and Landscaping WordPress Theme</a>
+<span class="post_comments oppercase op-7 block is-xsmall"><a href="http://www.inventheme.com/2019/12/16/planteo-gardening-and-landscaping-wordpress-theme/#respond"></a></span>
+</div>
+</div><!-- .flex-row -->
+</li>
+<li class="recent-blog-posts-li">
+<div class="flex-row recent-blog-posts align-top pt-half pb-half">
+<div class="flex-col mr-half">
+<div class="badge post-date badge-small badge-square">
+<div class="badge-inner bg-fill" >
+<span class="post-date-day">16</span><br>
+<span class="post-date-month is-xsmall">Dec</span>
+</div>
+</div>
+</div><!-- .flex-col -->
+<div class="flex-col flex-grow">
+<a href="http://www.inventheme.com/2019/12/16/carutos-car-services-wordpress-theme/" title="Carutos &#8211; Car Services WordPress Theme">Carutos &#8211; Car Services WordPress Theme</a>
+<span class="post_comments oppercase op-7 block is-xsmall"><a href="http://www.inventheme.com/2019/12/16/carutos-car-services-wordpress-theme/#respond"></a></span>
+</div>
+</div><!-- .flex-row -->
+</li>
+<li class="recent-blog-posts-li">
+<div class="flex-row recent-blog-posts align-top pt-half pb-half">
+<div class="flex-col mr-half">
+<div class="badge post-date badge-small badge-square">
+<div class="badge-inner bg-fill" >
+<span class="post-date-day">16</span><br>
+<span class="post-date-month is-xsmall">Dec</span>
+</div>
+</div>
+</div><!-- .flex-col -->
+<div class="flex-col flex-grow">
+<a href="http://www.inventheme.com/2019/12/16/ashade-photography/" title="Ashade Photography">Ashade Photography</a>
+<span class="post_comments oppercase op-7 block is-xsmall"><a href="http://www.inventheme.com/2019/12/16/ashade-photography/#respond"></a></span>
+</div>
+</div><!-- .flex-row -->
+</li>
+</ul>		</aside><aside id="recent-comments-5" class="widget widget_recent_comments"><span class="widget-title "><span>Recent Comments</span></span><div class="is-divider small"></div><ul id="recentcomments"></ul></aside><aside id="tag_cloud-9" class="widget widget_tag_cloud"><span class="widget-title "><span>Tag Cloud</span></span><div class="is-divider small"></div><div class="tagcloud"><a href="http://www.inventheme.com/tag/bootstrap/" class="tag-cloud-link tag-link-9 tag-link-position-1" style="font-size: 21.243243243243pt;" aria-label="Bootstrap (9 items)">Bootstrap</a>
+<a href="http://www.inventheme.com/tag/bootstrap-3/" class="tag-cloud-link tag-link-11 tag-link-position-2" style="font-size: 15.567567567568pt;" aria-label="bootstrap 3 (4 items)">bootstrap 3</a>
+<a href="http://www.inventheme.com/tag/bootstrap-4/" class="tag-cloud-link tag-link-12 tag-link-position-3" style="font-size: 22pt;" aria-label="bootstrap 4 (10 items)">bootstrap 4</a>
+<a href="http://www.inventheme.com/tag/e-commerce/" class="tag-cloud-link tag-link-42 tag-link-position-4" style="font-size: 11.405405405405pt;" aria-label="e-commerce (2 items)">e-commerce</a>
+<a href="http://www.inventheme.com/tag/inventheme/" class="tag-cloud-link tag-link-10 tag-link-position-5" style="font-size: 13.675675675676pt;" aria-label="InvenTheme (3 items)">InvenTheme</a>
+<a href="http://www.inventheme.com/tag/invent-theme/" class="tag-cloud-link tag-link-14 tag-link-position-6" style="font-size: 13.675675675676pt;" aria-label="Invent Theme (3 items)">Invent Theme</a>
+<a href="http://www.inventheme.com/tag/odoo/" class="tag-cloud-link tag-link-38 tag-link-position-7" style="font-size: 19.351351351351pt;" aria-label="Odoo (7 items)">Odoo</a>
+<a href="http://www.inventheme.com/tag/odoo-e-commerce/" class="tag-cloud-link tag-link-41 tag-link-position-8" style="font-size: 18.405405405405pt;" aria-label="Odoo e-commerce (6 items)">Odoo e-commerce</a>
+<a href="http://www.inventheme.com/tag/odoo-v12/" class="tag-cloud-link tag-link-40 tag-link-position-9" style="font-size: 18.405405405405pt;" aria-label="Odoo v12 (6 items)">Odoo v12</a>
+<a href="http://www.inventheme.com/tag/theme/" class="tag-cloud-link tag-link-39 tag-link-position-10" style="font-size: 13.675675675676pt;" aria-label="Theme (3 items)">Theme</a>
+<a href="http://www.inventheme.com/tag/web-design/" class="tag-cloud-link tag-link-13 tag-link-position-11" style="font-size: 13.675675675676pt;" aria-label="web design (3 items)">web design</a>
+<a href="http://www.inventheme.com/tag/wordpress/" class="tag-cloud-link tag-link-30 tag-link-position-12" style="font-size: 8pt;" aria-label="WordPress (1 item)">WordPress</a></div>
+</aside><aside id="categories-14" class="widget widget_categories"><span class="widget-title "><span>Categories</span></span><div class="is-divider small"></div>		<ul>
+<li class="cat-item cat-item-66"><a href="http://www.inventheme.com/category/wordpress/add-ons/" >Add-ons</a> (12)
+</li>
+<li class="cat-item cat-item-27"><a href="http://www.inventheme.com/category/html/admin/" >Admin</a> (69)
+</li>
+<li class="cat-item cat-item-54"><a href="http://www.inventheme.com/category/wordpress/blog-magazine-wordpress/" >Blog / Magazine</a> (40)
+</li>
+<li class="cat-item cat-item-33"><a href="http://www.inventheme.com/category/html/corporate/business/" >Business</a> (207)
+</li>
+<li class="cat-item cat-item-43"><a href="http://www.inventheme.com/category/wordpress/business-wordpress/" >Business</a> (2)
+</li>
+<li class="cat-item cat-item-68"><a href="http://www.inventheme.com/category/wordpress/calendars/" >Calendars</a> (2)
+</li>
+<li class="cat-item cat-item-32"><a href="http://www.inventheme.com/category/html/corporate/" >Corporate</a> (295)
+</li>
+<li class="cat-item cat-item-46"><a href="http://www.inventheme.com/category/wordpress/corporate-wordpress/" >Corporate</a> (133)
+</li>
+<li class="cat-item cat-item-19"><a href="http://www.inventheme.com/category/html/creative/" >Creative</a> (172)
+</li>
+<li class="cat-item cat-item-51"><a href="http://www.inventheme.com/category/wordpress/creative-wordpress/" >Creative</a> (73)
+</li>
+<li class="cat-item cat-item-37"><a href="http://www.inventheme.com/category/odoo/ecommerce/" >Ecommerce</a> (8)
+</li>
+<li class="cat-item cat-item-44"><a href="http://www.inventheme.com/category/wordpress/ecommerce-wordpress/" >eCommerce</a> (82)
+</li>
+<li class="cat-item cat-item-61"><a href="http://www.inventheme.com/category/wordpress/education/" >Education</a> (11)
+</li>
+<li class="cat-item cat-item-52"><a href="http://www.inventheme.com/category/wordpress/entertainment/" >Entertainment</a> (22)
+</li>
+<li class="cat-item cat-item-56"><a href="http://www.inventheme.com/category/html/entertainment-html/" >Entertainment</a> (32)
+</li>
+<li class="cat-item cat-item-73"><a href="http://www.inventheme.com/category/wordpress/forms/" >Forms</a> (2)
+</li>
+<li class="cat-item cat-item-74"><a href="http://www.inventheme.com/category/wordpress/galleries/" >Galleries</a> (1)
+</li>
+<li class="cat-item cat-item-16"><a href="http://www.inventheme.com/category/html/" >HTML</a> (953)
+</li>
+<li class="cat-item cat-item-70"><a href="http://www.inventheme.com/category/wordpress/interface-elements/" >Interface Elements</a> (3)
+</li>
+<li class="cat-item cat-item-71"><a href="http://www.inventheme.com/category/wordpress/media/" >Media</a> (1)
+</li>
+<li class="cat-item cat-item-62"><a href="http://www.inventheme.com/category/html/miscellaneous/" >Miscellaneous</a> (8)
+</li>
+<li class="cat-item cat-item-69"><a href="http://www.inventheme.com/category/wordpress/miscellaneous-wordpress/" >Miscellaneous</a> (3)
+</li>
+<li class="cat-item cat-item-60"><a href="http://www.inventheme.com/category/html/mobile/" >Mobile</a> (13)
+</li>
+<li class="cat-item cat-item-55"><a href="http://www.inventheme.com/category/html/nonprofit/" >Nonprofit</a> (26)
+</li>
+<li class="cat-item cat-item-65"><a href="http://www.inventheme.com/category/wordpress/nonprofit-wordpress/" >Nonprofit</a> (16)
+</li>
+<li class="cat-item cat-item-36"><a href="http://www.inventheme.com/category/odoo/" title="Odoo is one in all the quickest growing platforms for ecommerce development. it&#039;s on the far side the capabilities of the other platforms accessible for any business. The emergence from associate ERP software package to a full-fledged ecommerce platform offers a perfect development kit to integrate varied business method through one resolution.">Odoo</a> (8)
+</li>
+<li class="cat-item cat-item-1"><a href="http://www.inventheme.com/category/paid/" >Paid</a> (1)
+</li>
+<li class="cat-item cat-item-18"><a href="http://www.inventheme.com/category/html/personal/" >Personal</a> (51)
+</li>
+<li class="cat-item cat-item-31"><a href="http://www.inventheme.com/category/psd/" >PSD</a> (23)
+</li>
+<li class="cat-item cat-item-59"><a href="http://www.inventheme.com/category/ui-design/psd-templates/" >PSD Templates</a> (38)
+</li>
+<li class="cat-item cat-item-57"><a href="http://www.inventheme.com/category/wordpress/real-estate/" >Real Estate</a> (14)
+</li>
+<li class="cat-item cat-item-45"><a href="http://www.inventheme.com/category/wordpress/retail/" >Retail</a> (58)
+</li>
+<li class="cat-item cat-item-47"><a href="http://www.inventheme.com/category/html/retail-html/" >Retail</a> (126)
+</li>
+<li class="cat-item cat-item-58"><a href="http://www.inventheme.com/category/seo/" >SEO</a> (1)
+</li>
+<li class="cat-item cat-item-35"><a href="http://www.inventheme.com/category/ui-design/sketch-templates/" >Sketch Templates</a> (28)
+</li>
+<li class="cat-item cat-item-72"><a href="http://www.inventheme.com/category/wordpress/social-networking/" >Social Networking</a> (2)
+</li>
+<li class="cat-item cat-item-63"><a href="http://www.inventheme.com/category/html/specialty-pages/" >Specialty Pages</a> (20)
+</li>
+<li class="cat-item cat-item-17"><a href="http://www.inventheme.com/category/html/technology/" >Technology</a> (108)
+</li>
+<li class="cat-item cat-item-29"><a href="http://www.inventheme.com/category/wordpress/technology-wordpress/" >Technology</a> (32)
+</li>
+<li class="cat-item cat-item-34"><a href="http://www.inventheme.com/category/ui-design/" >Ui Design</a> (66)
+</li>
+<li class="cat-item cat-item-67"><a href="http://www.inventheme.com/category/wordpress/utilities/" >Utilities</a> (4)
+</li>
+<li class="cat-item cat-item-48"><a href="http://www.inventheme.com/category/website-design/" >Website Design</a> (1)
+</li>
+<li class="cat-item cat-item-50"><a href="http://www.inventheme.com/category/html/wedding-html/" >Wedding</a> (9)
+</li>
+<li class="cat-item cat-item-64"><a href="http://www.inventheme.com/category/wordpress/wedding-wordpress/" >Wedding</a> (5)
+</li>
+<li class="cat-item cat-item-28"><a href="http://www.inventheme.com/category/wordpress/" >WordPress</a> (528)
+</li>
+</ul>
+</aside><aside id="archives-7" class="widget widget_archive"><span class="widget-title "><span>Archives</span></span><div class="is-divider small"></div>		<ul>
+<li><a href='http://www.inventheme.com/2019/12/'>December 2019</a>&nbsp;(146)</li>
+<li><a href='http://www.inventheme.com/2019/11/'>November 2019</a>&nbsp;(189)</li>
+<li><a href='http://www.inventheme.com/2019/10/'>October 2019</a>&nbsp;(366)</li>
+<li><a href='http://www.inventheme.com/2019/09/'>September 2019</a>&nbsp;(315)</li>
+<li><a href='http://www.inventheme.com/2019/08/'>August 2019</a>&nbsp;(132)</li>
+<li><a href='http://www.inventheme.com/2019/07/'>July 2019</a>&nbsp;(293)</li>
+<li><a href='http://www.inventheme.com/2019/06/'>June 2019</a>&nbsp;(97)</li>
+<li><a href='http://www.inventheme.com/2019/05/'>May 2019</a>&nbsp;(8)</li>
+<li><a href='http://www.inventheme.com/2019/04/'>April 2019</a>&nbsp;(1)</li>
+<li><a href='http://www.inventheme.com/2019/03/'>March 2019</a>&nbsp;(2)</li>
+<li><a href='http://www.inventheme.com/2019/02/'>February 2019</a>&nbsp;(2)</li>
+<li><a href='http://www.inventheme.com/2019/01/'>January 2019</a>&nbsp;(2)</li>
+<li><a href='http://www.inventheme.com/2018/12/'>December 2018</a>&nbsp;(9)</li>
+<li><a href='http://www.inventheme.com/2018/09/'>September 2018</a>&nbsp;(2)</li>
+<li><a href='http://www.inventheme.com/2018/08/'>August 2018</a>&nbsp;(4)</li>
+<li><a href='http://www.inventheme.com/2018/07/'>July 2018</a>&nbsp;(14)</li>
+<li><a href='http://www.inventheme.com/2018/06/'>June 2018</a>&nbsp;(1)</li>
+<li><a href='http://www.inventheme.com/2018/04/'>April 2018</a>&nbsp;(1)</li>
+<li><a href='http://www.inventheme.com/2018/03/'>March 2018</a>&nbsp;(1)</li>
+</ul>
+</aside></div><!-- #secondary -->
+</div><!-- .post-sidebar -->
+</div><!-- .row -->
+</div><!-- #content .page-wrapper -->
+
+</main><!-- #main -->
+<footer id="footer" class="footer-wrapper">
+<!-- FOOTER 1 -->
+<!-- FOOTER 2 -->
+<div class="absolute-footer dark medium-text-center text-center">
+<div class="container clearfix">
+<div class="footer-primary pull-left">
+<div class="copyright-footer">
+Copyright 2019 © <strong>Invent Theme</strong>      </div>
+</div><!-- .left -->
+</div><!-- .container -->
+</div><!-- .absolute-footer -->
+<a href="#top" class="back-to-top button invert plain is-outline hide-for-medium icon circle fixed bottom z-1" id="top-link"><i class="icon-angle-up" ></i></a>
+</footer><!-- .footer-wrapper -->
+</div><!-- #wrapper -->
+<!-- Mobile Sidebar -->
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+<div class="sidebar-menu no-scrollbar ">
+<ul class="nav nav-sidebar  nav-vertical nav-uppercase">
+<li class="header-search-form search-form html relative has-icon">
+<div class="header-search-form-wrapper">
+<div class="searchform-wrapper ux-search-box relative form- is-normal"><form method="get" class="searchform" action="http://www.inventheme.com/" role="search">
+<div class="flex-row relative">
+<div class="flex-col flex-grow">
+<input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Search&hellip;" />
+</div><!-- .flex-col -->
+<div class="flex-col">
+<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0">
+<i class="icon-search" ></i>				</button>
+</div><!-- .flex-col -->
+</div><!-- .flex-row -->
+<div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li><li class="html header-social-icons ml-0">
+<div class="social-icons follow-icons " ><a href="http://url" target="_blank" data-label="Facebook"  rel="nofollow" class="icon plain facebook tooltip" title="Follow on Facebook"><i class="icon-facebook" ></i></a><a href="http://url" target="_blank" rel="nofollow" data-label="Instagram" class="icon plain  instagram tooltip" title="Follow on Instagram"><i class="icon-instagram" ></i></a><a href="http://url" target="_blank"  data-label="Twitter"  rel="nofollow" class="icon plain  twitter tooltip" title="Follow on Twitter"><i class="icon-twitter" ></i></a><a href="mailto:your@email" data-label="E-mail"  rel="nofollow" class="icon plain  email tooltip" title="Send us an email"><i class="icon-envelop" ></i></a></div></li><li class="html header-button-1">
+<div class="header-button">
+<a href="#" class="button primary"  style="border-radius:99px;">
+<span></span>
+</a>
+</div>
+</li>
+</ul>
+</div><!-- inner -->
+</div><!-- #mobile-menu -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.inventheme.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.inventheme.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript'>
+var renderInvisibleReCaptcha = function() {
+for (var i = 0; i < document.forms.length; ++i) {
+var form = document.forms[i];
+var holder = form.querySelector('.inv-recaptcha-holder');
+if (null === holder) continue;
+holder.innerHTML = '';
+(function(frm){
+var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+var holderId = grecaptcha.render(holder,{
+'sitekey': '', 'size': 'invisible', 'badge' : 'bottomright',
+'callback' : function (recaptchaToken) {
+if((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}
+HTMLFormElement.prototype.submit.call(frm);
+},
+'expired-callback' : function(){grecaptcha.reset(holderId);}
+});
+if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
+jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){
+clickEvt.preventDefault();
+grecaptcha.execute(holderId);
+});
+}
+else
+{
+frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
+}
+})(form);
+}
+};
+</script>
+<script type='text/javascript' async defer src='https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&#038;render=explicit'></script>
+<script type='text/javascript' src='http://www.inventheme.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.5.3'></script>
+<script type='text/javascript' src='http://www.inventheme.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var flatsomeVars = {"ajaxurl":"http:\/\/www.inventheme.com\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.inventheme.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.5.3'></script>
+<script type='text/javascript' src='http://www.inventheme.com/wp-includes/js/comment-reply.min.js?ver=4.9.13'></script>
+<script type='text/javascript' src='http://www.inventheme.com/wp-includes/js/wp-embed.min.js?ver=4.9.13'></script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.18736791610718 seconds, on 18-12-19 14:28:52 --><!-- via php -->
